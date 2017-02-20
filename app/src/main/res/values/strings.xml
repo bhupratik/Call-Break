@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CallBreak Score</string>
+    <string name="action_settings">Settings</string>
+    <string name="player_1">1st Player</string>
+    <string name="player_2">2nd Player</string>
+    <string name="player_3">3rd Player</string>
+    <string name="player_4">4th Player</string>
+    <string name="round">No. of Rounds: </string>
+    <string name="err_msg_nameP1">Please Enter the 1st Player Name...</string>
+    <string name="err_msg_nameP2">Please Enter the 2nd Player Name...</string>
+    <string name="err_msg_nameP3">Please Enter the 3rd Player Name...</string>
+    <string name="err_msg_nameP4">Please Enter the 4th Player Name...</string>
+    <string name="err_msg_round">Please Enter No. of Rounds for winning</string>
+    <string name="erro_msg_score">Please Enter Winning Score</string>
+    <string name="win">Winning Score: </string>
+    <string name="maximum">Winning Score</string>
+</resources>
